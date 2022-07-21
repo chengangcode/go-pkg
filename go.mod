@@ -1,1 +1,1 @@
-module github.com/chengangcode/go-pkg/v1
+module github.com/chengangcode/go-pkg
